@@ -1,0 +1,30 @@
+h1 {
+    color: rgb(0, 0, 0);
+}
+h2 {
+    color: rgb(0, 0, 0);
+}
+
+body    {
+    
+    background-color: rgb(191, 245, 222);
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    width: 800px;
+
+}
+
+div {
+    border: 2px solid rgb(7, 92, 35);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    
+    background-color: rgb(111, 238, 206);
+}
+
+span {
+    
+    font-weight: bold;
+}
